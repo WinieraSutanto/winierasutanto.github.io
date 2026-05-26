@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "picture": "/book_cover/worm.jpg",
+    "picture": "./book_cover/worm.jpg",
     "name": "Worm",
     "author": "Wildbow",
     "review": "A fun read with one of the most interesting protagonists I've read in a while. Very intersting world-building in a very unique setting. I would reccomend it to anyone that wants to try reading about superheroes.",
@@ -9,7 +9,7 @@
   },
   {
     "id": 2,
-    "picture": "/book_cover/way_of_kings.jpg",
+    "picture": "./book_cover/way_of_kings.jpg",
     "name": "Way of Kings",
     "author": "Brandon Sanderson",
     "review": "The start of the Stormlight Archive and a soft introduction to the Cosmere. I personally enjoy the slow world-building that is Brandon Sanderson's specialty.",
@@ -17,7 +17,7 @@
   },
   {
     "id": 3,
-    "picture": "/book_cover/words_of_radiance.jpg",
+    "picture": "./book_cover/words_of_radiance.jpg",
     "name": "Words of Radiance",
     "review": "I'm probably biased because Shallan is my favorite character, but I think this book is my favorite in the Stormlight Archive. It had the perfect balance of character, plot, and world-building that I really enjoyed.",
     "author": "Brandon Sanderson",
@@ -25,7 +25,7 @@
   },
   {
     "id": 4,
-    "picture": "/book_cover/oathbringer.jpg",
+    "picture": "./book_cover/oathbringer.jpg",
     "name": "Oathbringer",
     "author": "Brandon Sanderson",
     "review": "While I overall enjoyed it, I think the character development for Kaladin and Shallan was sidelined a bit. Also, I didn't really enjoy the ending as it felt too `Avengers`-esque for my taste. I still think it's a good book, especially for Dalinar's character development, but I think it didn't live up to the earlier books.",
@@ -33,7 +33,7 @@
   },
   {
     "id": 5,
-    "picture": "/book_cover/rhythm_of_war.jpg",
+    "picture": "./book_cover/rhythm_of_war.jpg",
     "name": "Rhythm of War",
     "author": "Brandon Sanderson",
     "review": "While a majority of the book, especially Kaladin's perspective, takes place in a tower, I really enjoyed it for some reason. Although I really disliked Venli's perspective, which frankly just made some parts a slog for me",
@@ -41,7 +41,7 @@
   },
   {
     "id": 6,
-    "picture": "/book_cover/wind_and_truth.jpg",
+    "picture": "./book_cover/wind_and_truth.jpg",
     "name": "Wind and Truth",
     "author": "Brandon Sanderson",
     "review": "The final book of the Stormlight Archive, I know that online there is a very mixed reception to this book. I personally enjoyed it, but I can understand where some of the criticism comes from. The 10 days format, while interesting, felt a bit limiting at times.",
