@@ -1,7 +1,20 @@
 
 :root {
   font-family: Arial;
-  display: flex;
-  justify-content: center;
+  color: #333;
+  background: #fff;
 }
 
+body {
+  margin: 0;
+  min-width: 320px;
+  min-height: 100vh;
+}
+
+a {
+  color: #4f46e5;
+}
+
+a:hover {
+  color: #3730a3;
+}
